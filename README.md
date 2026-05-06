@@ -59,9 +59,9 @@ Interned at **TimelySoft** (2023) — built a CRM API and authorization service 
 ## Roadmap
 
 ```
-2024 ████████████░░░░░░  SysAdmin + DevOps practices    ← now
-2025 ░░░░████████████░░  Kubernetes, Terraform, CI/CD
-2026 ░░░░░░░░████████░░  Full DevOps Engineer role
+2026 ████████████░░░░░░  SysAdmin + DevOps practices    ← now
+2026 ░░░░████████████░░  Kubernetes, Terraform, CI/CD
+2027 ░░░░░░░░████████░░  Full DevOps Engineer role
 ```
 
 **Studying next:**
