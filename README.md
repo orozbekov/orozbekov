@@ -14,7 +14,7 @@ Currently managing full-stack corporate IT infrastructure while building toward 
 | **OS & Server** | Windows Server (AD, DC, GPO, DHCP, DNS), Linux (Ubuntu/Debian) |
 | **Networking** | MikroTik RouterOS — routing, firewall, VLANs, VPN (L2TP/IPSec, WireGuard) |
 | **Security & Access** | Proxy server, AD group policies, RDP, AnyDesk, TeamViewer |
-| **Monitoring** | Netdata, Sentry |
+| **Monitoring & CI/CD** | Netdata, Sentry, Grafana, Prometheus, Kubernetes, Jenkins, GitLab CI, GitHub Actions, Nginx |
 | **Containers** | Docker, Docker Compose |
 | **Automation** | Bash, PowerShell, Python |
 | **VCS** | Git, GitHub, GitLab |
