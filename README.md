@@ -80,9 +80,9 @@ Interned at **TimelySoft** (2023) — built a CRM API and authorization service 
   program: Backend Developer (Python, C#)
   period: 2021 – 2023
 
-- institution: ATEK College
-  program: Technician
-  period: 2019 – 2022
+- institution: SMU College
+  program: Jurisprudence
+  period: 2019 – 2025
 ```
 
 ---
